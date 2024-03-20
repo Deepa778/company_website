@@ -1,0 +1,24 @@
+/* Add styles as needed */
+
+.project-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .project-item {
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .project-item img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 0 30px;
+  }
+  
